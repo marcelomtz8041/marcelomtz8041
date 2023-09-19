@@ -1,0 +1,3 @@
+-  Hi, I’m @marcelomtz8041
+-  I’m interested in music, gaming, programming, pc build and custom keyboards
+-  I’m currently learning python, SQL, Js
